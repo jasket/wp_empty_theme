@@ -1,5 +1,5 @@
-# Node modules
-node_modules/
-
-# Idea temp
+# User-specific stuff:
 .idea/
+build/
+node_modules/
+package-lock.json
