@@ -1,2 +1,3 @@
-# Wordpress Empty theme 
+# Wordpress Empty theme
+
 Wordpress empty theme 
