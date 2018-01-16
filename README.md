@@ -1,2 +1,2 @@
-# wp_empty_theme
+# Wordpress Empty theme 
 Wordpress empty theme 
